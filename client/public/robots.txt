@@ -1,0 +1,5 @@
+cat > /home/ubuntu/sancy-group-trading/client/public/robots.txt <<'EOF'
+User-agent: *
+Allow: /
+Sitemap: /sitemap.xml
+EOF

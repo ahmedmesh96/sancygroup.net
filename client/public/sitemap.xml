@@ -1,0 +1,16 @@
+cat > /home/ubuntu/sancy-group-trading/client/public/sitemap.xml <<'EOF'
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>/</loc></url>
+  <url><loc>/about</loc></url>
+  <url><loc>/services</loc></url>
+  <url><loc>/products</loc></url>
+  <url><loc>/food-agriculture</loc></url>
+  <url><loc>/markets</loc></url>
+  <url><loc>/buyers</loc></url>
+  <url><loc>/suppliers</loc></url>
+  <url><loc>/trade-opportunities</loc></url>
+  <url><loc>/insights</loc></url>
+  <url><loc>/contact</loc></url>
+</urlset>
+EOF
